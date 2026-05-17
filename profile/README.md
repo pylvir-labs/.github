@@ -1,17 +1,18 @@
-# Iteron
+# pylvir-labs
 
 Systems, data, and software built through iterative engineering.
 
 ## Overview
 
-Iteron is a collection of software projects focused on building modular systems across data engineering, backend services, and applied machine learning. The emphasis is on composable architecture, reproducible workflows, and pragmatic engineering.
+pylvir-labs is a collection of software projects focused on building modular systems across data engineering, backend services, and applied machine learning. The emphasis is on composable architecture, reproducible workflows, and pragmatic engineering.
 
 ## Principles
 
 - Iterative development over monolithic design
 - Modularity over tight coupling
-- Clarity of data flow and system boundaries
+- Clear separation of system boundaries
 - Reproducibility as a default requirement
+- Practical systems over theoretical complexity
 
 ## Repository Structure
 
@@ -34,6 +35,7 @@ TBD
 - Backend architecture for scalable services
 - Machine learning infrastructure and experimentation
 - Developer tooling and automation systems
+- AI-assisted software systems and automation
 
 ## Contact
 
