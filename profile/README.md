@@ -27,7 +27,7 @@ Repositories are organized by function:
 
 ## Selected Projects
 
-TBD
+- **[Scribe](https://github.com/pylvir-labs/scribe-releases)**: a desktop writing app for fiction, reports, email and presentations. It gives feedback on what you write on your own machine, with no account and no model; AI help is optional and local. Installers for Windows, macOS and Linux. The source is not public.
 
 ## Focus Areas
 
